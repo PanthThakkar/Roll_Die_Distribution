@@ -1,5 +1,5 @@
 To Run file do:
 
-python roll_sided_die.py <number of Rolls> <frame rate>
+python roll_sided_die.py
 
-Replace <number of Rolls> <frame rate> with the number of each you want
+I have updated it so that there is a prompt that asks you how many rolls you want and the number of rolls you want per frame change.
